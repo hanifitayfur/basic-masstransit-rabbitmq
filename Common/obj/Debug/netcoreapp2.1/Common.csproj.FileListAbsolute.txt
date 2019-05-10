@@ -1,0 +1,9 @@
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Common\obj\Debug\netcoreapp2.1\Common.pdb
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache

@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\ConsumerApp2\\ConsumerApp2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\htayfur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\htayfur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\bhmdvwebp3\\NugetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\ConsumerApp2\\ConsumerApp2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\ConsumerApp2\\ConsumerApp2.csproj",
+        "projectName": "ConsumerApp2",
+        "projectPath": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\ConsumerApp2\\ConsumerApp2.csproj",
+        "packagesPath": "C:\\Users\\htayfur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\ConsumerApp2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\htayfur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\bhmdvwebp3\\NugetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\Common\\Common.csproj"
+              },
+              "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\Messaging\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\Messaging\\Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\Messaging\\Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\Messaging\\Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\Messaging\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\htayfur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\htayfur\\Documents\\Special\\Rabbitmq-Masstransit\\Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\htayfur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\bhmdvwebp3\\NugetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

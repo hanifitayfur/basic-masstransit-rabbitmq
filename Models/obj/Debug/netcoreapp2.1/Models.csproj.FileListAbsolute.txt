@@ -1,0 +1,12 @@
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Models\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Models\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Models\obj\Debug\netcoreapp2.1\Models.csproj.CopyComplete
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Models\obj\Debug\netcoreapp2.1\Models.dll
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Models\obj\Debug\netcoreapp2.1\Models.pdb
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Models\bin\Debug\netcoreapp2.1\Contracts.dll
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\Models\bin\Debug\netcoreapp2.1\Contracts.pdb

@@ -1,0 +1,16 @@
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\bin\Debug\netcoreapp2.1\ConsumerApp2.deps.json
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\bin\Debug\netcoreapp2.1\ConsumerApp2.runtimeconfig.json
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\bin\Debug\netcoreapp2.1\ConsumerApp2.runtimeconfig.dev.json
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\bin\Debug\netcoreapp2.1\ConsumerApp2.dll
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\bin\Debug\netcoreapp2.1\ConsumerApp2.pdb
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\bin\Debug\netcoreapp2.1\Contracts.dll
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\bin\Debug\netcoreapp2.1\Contracts.pdb
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\obj\Debug\netcoreapp2.1\ConsumerApp2.csprojAssemblyReference.cache
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\obj\Debug\netcoreapp2.1\ConsumerApp2.csproj.CoreCompileInputs.cache
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\obj\Debug\netcoreapp2.1\ConsumerApp2.AssemblyInfoInputs.cache
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\obj\Debug\netcoreapp2.1\ConsumerApp2.AssemblyInfo.cs
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\obj\Debug\netcoreapp2.1\ConsumerApp2.csproj.CopyComplete
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\obj\Debug\netcoreapp2.1\ConsumerApp2.dll
+C:\Users\htayfur\Documents\Special\Rabbitmq-Masstransit\ConsumerApp2\obj\Debug\netcoreapp2.1\ConsumerApp2.pdb
